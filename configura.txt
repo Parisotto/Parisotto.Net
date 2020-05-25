@@ -3,4 +3,3 @@ name:
 age:
 number:
 string:
-index:
