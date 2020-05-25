@@ -2,4 +2,3 @@ setup:
 name:
 age:
 number:
-string:
